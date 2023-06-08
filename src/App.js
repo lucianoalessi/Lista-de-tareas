@@ -1,16 +1,15 @@
 import './App.css';
-import Tarea from './Componentes/Tarea';
-import TareaFormulario from './Componentes/TareaFormulario';
+import ListaDeTareas from './Componentes/ListaDeTareas';
 
 function App() {
   return (
     <div className='aplicacion-tareas'>
       <div className='tarea-lista-principal'>
         <h1>Mis tareas</h1>
-        <TareaFormulario/>
-        <Tarea texto='aprender react'/>
-        <Tarea />
-        <Tarea />
+        <ListaDeTareas/>
+        
+          
+
         
 
       </div>
