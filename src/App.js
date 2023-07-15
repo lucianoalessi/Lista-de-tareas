@@ -11,10 +11,10 @@ function App() {
       </div>
 
       <div className='author'>
-          Designed and Coded by
-          <br/>
-          <a href='https://www.linkedin.com/in/lucianoalessi/' target='_blank'>Luciano A. Alessi</a>
-        </div>
+        Designed and Coded by
+        <br/>
+        <a href='https://www.linkedin.com/in/lucianoalessi/' target='_blank'>Luciano A. Alessi</a>
+      </div>
 
         
     </div>
